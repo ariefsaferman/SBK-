@@ -1,5 +1,6 @@
 Tugas SBK membuat simple PIN ATM 4 digit dengan menampilkannya pada 7 segment dan menginputnya dari port matrix keypad pada MCU 8051 
 
+![image](https://user-images.githubusercontent.com/56531526/80013873-c41a4300-84f9-11ea-9980-eb04ef36475f.png)
 ORG	00H
 
 ; ################  SET P0 AS INPUT COLUMN AND P2 AS INPUT ROW  ########### ; 
